@@ -64,11 +64,12 @@ The goal of the chatbot was to address these issues by providing a streamlined, 
 
 2. **Testing & Iteration:**
    - Conducted thorough testing within the Dialogflow Console.
-   - Analyzed conversation logs to refine intents and responses.
   
 ![image](https://github.com/user-attachments/assets/17928240-8aee-447f-9dd4-e4f1343215c3)
 
-![image](https://github.com/user-attachments/assets/ec5d7ae7-56c3-44ab-bf91-3156aedad6f2)
+   - Analyzed conversation logs to refine intents and responses.
+
+![image](https://github.com/user-attachments/assets/12d4f10e-cf3e-477a-a8dc-09a4035b43ce)
 
 
 3. **Deployment:**
