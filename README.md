@@ -48,18 +48,34 @@ The goal of the chatbot was to address these issues by providing a streamlined, 
 
 1. **Designing the Flow:**
    - I Used Dialogflow Flow to visually map out conversation paths.
+
+![image](https://github.com/user-attachments/assets/64e67701-0af1-42d6-9cc5-b53cd4a43c8c)
+
    - I Created multiple intents to cover a variety of user queries.
 
-2. **Setting Up Intents & Entities:**
+![image](https://github.com/user-attachments/assets/5f460ff4-bcd9-4a0d-aaa9-f72f74aa9773)
+
+
+1. **Setting Up Intents & Entities:**
    - Developed training phrases based on common user queries.
    - Defined custom entities to capture specific terms (e.g., course names, financial jargon).
+  
+   
 
-3. **Testing & Iteration:**
+2. **Testing & Iteration:**
    - Conducted thorough testing within the Dialogflow Console.
    - Analyzed conversation logs to refine intents and responses.
+  
+![image](https://github.com/user-attachments/assets/17928240-8aee-447f-9dd4-e4f1343215c3)
 
-4. **Deployment:**
-   - Integrated the chatbot into the Finfree website.
+![image](https://github.com/user-attachments/assets/ec5d7ae7-56c3-44ab-bf91-3156aedad6f2)
+
+
+3. **Deployment:**
+   - Integrated the chatbot into the Finfree social media site, precislely telegram app.
+  
+   ![image](https://github.com/user-attachments/assets/c32c7ab6-2fbf-4c94-8c54-7697ccd028a0)
+
    - Configured continuous monitoring and iterative improvements based on user feedback.
 
 ## Challenges & Learnings
